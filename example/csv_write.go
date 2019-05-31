@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/ParquetType"
-	"github.com/xitongsys/parquet-go/ParquetWriter"
+	"github.com/marquisthunder/parquet-go/ParquetFile"
+	"github.com/marquisthunder/parquet-go/ParquetType"
+	"github.com/marquisthunder/parquet-go/ParquetWriter"
 )
 
 func main() {

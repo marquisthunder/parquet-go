@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/marquisthunder/parquet-go/parquet"
 )
 
 //base type

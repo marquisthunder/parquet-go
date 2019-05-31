@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/ParquetReader"
-	"github.com/xitongsys/parquet-go/ParquetWriter"
+	"github.com/marquisthunder/parquet-go/ParquetFile"
+	"github.com/marquisthunder/parquet-go/ParquetReader"
+	"github.com/marquisthunder/parquet-go/ParquetWriter"
 )
 
 type Student struct {
